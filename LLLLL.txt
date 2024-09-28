@@ -1,0 +1,22 @@
+<! DOCTYPE html>
+<html>
+<head>
+<title><center>KASARANI VAOCATIONAL COLLEGGE<center></title>
+</head>
+
+<body STYLE ="background. Color: light grey;">
+<p><h1 style = "font-size: 20PX;"><CENTER>SCHOOL DETAILS<CENTER></h1>
+<h3>Kasarani vocational college is located at 1km Kamulu off kangundo road.
+<em>It offers various courses such as computer science, computer programming, food sand and beverages and as well as many others.</em>
+The school provides both theoretical and practical learning to its trainees.
+It is also a guaranteed that trainees experience an environmental friendly situations with their trainers who are their assistant during their academic journey.
+<small>The trainees are also being given moral support and as well as spiritual support to boost up their social behaviour upright.<small></p> </h3> 
+<p><h1 style = "font-size: 15PX;"><CENTER>2023 ADMISSION AT 2<sup>ND</sup> OF SEPTEMBER<CENTER></h1>
+<h3><strong>The trainees were given a very warm welcoming and correct  protocols were followed while admitting them.</strong>
+<b>The trainees were assigned well to their respective course they applied for before joining the institution.</b></h3></p>
+<h3><i>HOW CLASSES RUN<i></h3>
+<h3>the trainees were given timetables showing them their respective classes with assigned trainers to guide them with indicated timeframe for their lessons</h3>
+<h1 style="color: blue"><CENTER>BASIC INFORMATION FOR THE SCHOOL RULES<CENTER></h1>
+<h3><u>The trainees are being issued with a note indicating all the school rules in which mut be followed and one go against them one shall face the consequences.</u>
+</body>
+</html>
